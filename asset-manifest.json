@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/music-deploy/static/css/main.1518fec3.chunk.css",
+    "main.js": "/music-deploy/static/js/main.9438d2ba.chunk.js",
+    "main.js.map": "/music-deploy/static/js/main.9438d2ba.chunk.js.map",
+    "runtime-main.js": "/music-deploy/static/js/runtime-main.f80d4445.js",
+    "runtime-main.js.map": "/music-deploy/static/js/runtime-main.f80d4445.js.map",
+    "static/js/2.0d2ac33a.chunk.js": "/music-deploy/static/js/2.0d2ac33a.chunk.js",
+    "static/js/2.0d2ac33a.chunk.js.map": "/music-deploy/static/js/2.0d2ac33a.chunk.js.map",
+    "static/js/3.f39108dc.chunk.js": "/music-deploy/static/js/3.f39108dc.chunk.js",
+    "static/js/3.f39108dc.chunk.js.map": "/music-deploy/static/js/3.f39108dc.chunk.js.map",
+    "index.html": "/music-deploy/index.html",
+    "static/css/main.1518fec3.chunk.css.map": "/music-deploy/static/css/main.1518fec3.chunk.css.map",
+    "static/js/2.0d2ac33a.chunk.js.LICENSE.txt": "/music-deploy/static/js/2.0d2ac33a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f80d4445.js",
+    "static/js/2.0d2ac33a.chunk.js",
+    "static/css/main.1518fec3.chunk.css",
+    "static/js/main.9438d2ba.chunk.js"
+  ]
+}
